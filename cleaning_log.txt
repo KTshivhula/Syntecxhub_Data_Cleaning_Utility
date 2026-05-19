@@ -1,0 +1,13 @@
+
+Cleaning Log
+============
+1. Standardized column names: converted to lowercase and replaced spaces with underscores.
+2. Fixed data types: Age and Salary converted to numeric (invalid entries became NaN, later imputed).
+   Joining Date converted to datetime.
+3. Missing values handled:
+   - Dropped 1 row where Name was missing.
+   - Filled Age missing values with median (30.0).
+   - Filled Salary missing values with mean (61000.00).
+   - Filled Joining Date missing values using forward fill.
+4. Duplicate rows removed: 1 duplicate(s) deleted.
+5. Final dataset has 7 rows and 6 columns.

@@ -1,0 +1,8 @@
+name,age,salary,joining_date,department,email
+Alice,25.0,50000.0,2021-01-15,HR,alice@email.com
+Bob,30.0,60000.0,2020-03-22,IT,bob@email.com
+Charlie,37.0,75000.0,2020-03-22,IT,charlie@email.com
+Diana,45.0,61000.0,2022-11-05,Finance,diana@email.com
+Eve,28.0,52000.0,2020-12-01,HR,eve@email.com
+Bob,32.0,60000.0,2020-03-22,IT,bob@email.com
+Frank,30.0,80000.0,2023-02-28,Finance,frank@email.com
